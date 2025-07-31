@@ -4,19 +4,19 @@ This project combines predictive modeling and customer analytics to address real
 
 1. Airbnb Price Prediction
 
-#### Collected and prepared Airbnb listing data
+Collected and prepared Airbnb listing data
 
-#### Engineered relevant features and implemented regression techniques to build a predictive model for estimating property prices
+Engineered relevant features and implemented regression techniques to build a predictive model for estimating property prices
 
-#### Used Python libraries (Pandas, NumPy, Scikit-learn) for data manipulation, feature engineering, and model evaluation
+Used Python libraries (Pandas, NumPy, Scikit-learn) for data manipulation, feature engineering, and model evaluation
 
 2. Telecom Customer Churn Prediction
 
-#### Built classification models (Logistic Regression, Decision Tree, Random Forest) to predict customer churn
+Built classification models (Logistic Regression, Decision Tree, Random Forest) to predict customer churn
 
-#### Performed exploratory data analysis (EDA) to uncover churn patterns
+Performed exploratory data analysis (EDA) to uncover churn patterns
 
-#### Evaluated models using accuracy, precision, and recall to assess performance
+Evaluated models using accuracy, precision, and recall to assess performance
 
 This dual-domain project showcases the use of machine learning for pricing optimization and customer retention strategies.
 
